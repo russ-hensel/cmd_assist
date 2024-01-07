@@ -1,0 +1,43 @@
+
+
+
+probably should use 
+
+     cinnamon-settings-users  # gui for user/password management
+
+
+command_template.txt
+
+near edge of working ok 
+
+------------------- Briefly ------------------- 
+
+Commands to find setup users who can log onto the system 
+Generally use the command:
+     cinnamon-settings-users  # gui for user/password management
+Others:
+ 
+------------------- Search_me ------------------- 
+
+	find
+	    - find -help -
+            man find
+	 
+
+ 
+  
+
+------------------- This GUI ------------------- 
+
+write me
+
+
+
+------------------ xxx -help ------------------- 
+ 
+  
+ 
+------------------- man xxx ------------------- 
+    
+         
+ 

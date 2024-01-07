@@ -1,0 +1,34 @@
+gui_files.txt
+
+this interface is to help you manage multiple file
+functions
+
+
+Show current directory
+    Is this of any use, will tend to be where program 
+
+    pwd
+
+
+
+List files
+    ls
+    needs a source directory ( if file, strips off file )
+
+Delete files
+    rm
+    needs a source dir file spec   
+
+Copy files
+    need a source directory and file spec can use * *
+    need a destination dir 
+# Show how long
+uptime
+# Show system h
+hostname
+# Display the I
+hostname -I
+
+
+
+

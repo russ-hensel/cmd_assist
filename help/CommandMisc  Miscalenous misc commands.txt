@@ -1,0 +1,20 @@
+help for misc commands but name is wrong
+
+
+
+many commands  xxxx
+
+    >> cat – you can view and add to a text file with this command.
+    >> cd – change to your home directory with this command. appending a space and a name will switch you to the named directory. appending two periods will bring you to the current directory’s parent directory.
+    >> du – this command displays disk space usage of files in a directory.
+    >> chmod – this command is used to change the read, write and execute file permissions.
+    >> history – using this command you can see a list of the recently executed commands entered through the command line.
+    >> locate – find a file’s location by name with this command.
+    >> more – this is a very helpful command that displays multiple pages of information one screen at a time. hitting enter will show you the next screen.
+    >> man – short for manual, this command displays the reference manual pages for a specified command. entering man ls will show what the manual has on the ls command.
+    >> passwd – this command allows you to create or update passwords for user accounts.
+    >> pwd # the current working directory is displayed with this command.
+    >> mkdir – you can create a new directory with this command as long as none already exist with the selected name.
+    >> mv – rename or move files and directories with this command.
+    >> sudo – this is a very powerful command that allows an authorized user to execute commands as the root user of the system.
+    >> touch – you can create a file that does not already exist with this command. if the file exists, the timestamp is updated, but the contents remain unchanged.

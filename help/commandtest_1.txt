@@ -1,0 +1,21 @@
+commandtest_1.txt
+
+
+ 
+just a test command may want to keep a template in this one 
+
+
+    apt superceeds apt-get, generally do not need apt-get
+        .
+
+first
+sudo apt update   # updates apt run first when using apt
+
+
+sudo apt update        # Fetches the list of available updates
+sudo apt upgrade       # Installs some updates; does not remove packages
+sudo apt full-upgrade  # Installs updates; may also remove some packages, if needed
+sudo apt autoremove    # Removes any old packages that are no longer needed
+
+
+

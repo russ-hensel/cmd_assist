@@ -1,0 +1,81 @@
+commandnet.txt
+
+adding commands, seem to work as added  
+
+------------------- Briefly ------------------- 
+
+Commands to examine/config the network
+
+	ifconfig       done
+        hostname [options] [new_host_name]
+        sudo xedit /etc/hosts
+	.....
+		static ip
+                network name
+		see linux cheat
+
+===  Setting or viewing of your machine name  ===
+
+*>> hostname [options] [new_host_name]
+
+>> sudo xedit /etc/hosts
+
+>> ping host-name/IP
+>> ping 192.168.0.12 # theprof
+>> ping theprof # 
+
+sudo gedit /etc/dhcpcd.conf
+look at current config
+
+    >> gedit /etc/network/interfaces # network interfaces config
+* >> netstat -nr   #
+<pre>
+record: ( or fix area below )
+
+** >> sudo nano    /etc/network/interfaces
+** >> sudo leafpad /etc/network/interfaces
+IP Scanning
+
+    >> arp -a # The -a option uses and alternate BSD-style output and prints all known IP addresses found on your LAN. The output of the command will display IP addresses as well as the associated ethernet device
+
+    >> nmap -sP 192.168.1.0/24
+
+    https://www.addictivetips.com/net-admin/best-linux-ip-scanners/
+
+    Angry IP Scanner .. if installed
+
+    arp-scan in synaptic
+
+    nmap/zenmap synaptic did not find zenmap .... will have to look for it
+
+    More scanning tools:
+    ------------------------ ip ---------------------
+
+ip – This displays and manages routing, devices, and can be used to assign an IP address to a specific interface. 
+
+
+* >> iptables -nvL   # Check your firewall configuration on the server machine:
+
+
+------------------- Search_me ------------------- 
+
+	find
+	    - find -help -
+            man find
+	 
+
+
+------------------- This GUI ------------------- 
+
+write me
+
+
+
+------------------ xxx -help ------------------- 
+ 
+  
+ 
+------------------- man xxx ------------------- 
+    
+         
+ 

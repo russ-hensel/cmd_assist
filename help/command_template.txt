@@ -1,0 +1,35 @@
+command_template.txt
+
+near edge of working ok 
+
+------------------- Briefly ------------------- 
+
+Commands to find "stuff"
+
+find     followed by a pattern of what to find
+.....
+
+------------------- Search_me ------------------- 
+
+	find
+	    - find -help -
+            man find
+	 
+
+ 
+  
+
+------------------- This GUI ------------------- 
+
+write me
+
+
+
+------------------ xxx -help ------------------- 
+ 
+  
+ 
+------------------- man xxx ------------------- 
+    
+         
+ 

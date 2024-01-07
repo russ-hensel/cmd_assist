@@ -1,0 +1,70 @@
+this is help for the info tab page
+
+This tabpage gathers info about your system.  This describes a bit about what and how.
+The how can also be seen in the message area once an action is selected.
+
+Display Linux Info
+    Information about your version of linux via:
+        uname -a
+
+* Host Info 
+    Information about your compute as a host on your network via:
+        hostname; hostname -I
+
+* Network 
+    Information about your network via:
+        # Display all network interfaces and ip address
+        ifconfig -a
+        # Display eth0 address and details
+        ifconfig eth0
+
+
+* Hardware
+    Information about your hardware via: 
+        cat /proc/cpuinfo; wat /proc/meminfo;cat /proc/meminfo;lsusb -tv
+
+       
+
+
+
+
+disks
+memory
+htop        could launch, may need shell script and detach 
+........
+
+
+   # ---------------------------------
+    def disp_linux_info( self, what ):
+        """
+        return depens on what
+        """
+        if   what == "cmd"  :
+
+            return "uname -a"
+
+    # ---------------------------------
+    def disp_host_info( self, what ):
+        """
+        see above
+        """
+        if   what == "cmd"  :
+            ret    =  "hostname; hostname -I"
+            self.cmd    = ret
+            return ret
+
+    # ---------------------------------
+    def disp_who( self, what ):
+        """
+        see above
+        """
+        if   what == "cmd"  :
+            ret    =  "whoami; w"
+            self.cmd    = ret
+            return ret
+
+
+
+
+
+

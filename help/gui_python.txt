@@ -1,0 +1,28 @@
+gui_python.txt
+
+just an idea to try
+
+
+incorporate gui_venv code that migh work
+
+
+the two linux updates
+
+want to first activate a virtual environment
+
+
+pip update
+
+
+pip show modules
+
+
+launch spyder
+       pycharn
+       thony....
+
+
+try this  .... do not install in system python do not use sudo
+pip3 install pyperclip  --upgrade --user
+
+

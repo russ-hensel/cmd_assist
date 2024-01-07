@@ -1,0 +1,75 @@
+commandhw.txt
+
+commands so far seem to work
+
+
+
+------------------- briefly ------------------- 
+Commands to discover hardware:
+
+	sudo fdisk -l  # terminal   -> detailed disk info",
+	lsblk          # terminal   -> summary of disks",
+	gparted        # gui launch -> disk partition manager",
+	gnome-disks    # gui launch -> disk inspector",
+        nemo           # gui launch -> file manager"  ]
+	df -h          # shows disk space in human-readable format
+	du -s          # total disk space used by a particular file or directory
+	inxi --basic   # Basic output, short form. Same as inxi -v 2.
+	inxi --battery # System battery info, 
+	inxi --audio   # Audio/sound card(s), driver, sound server.
+	dmesg | grep tty  # serial port info 
+	ifconfig  # find your ip address 
+
+
+	there may be more that would be good here 
+             
+		serial ports 
+		 dmesg | egrep --color 'serial|ttyS' # Find out information about your serial ports
+		
+		    on mint vm get nothing
+		
+		
+		>> ls /dev/serial/by-id/ #
+
+
+    
+
+    >> df -a shows the file system's complete disk usage even if the Available field is 0
+
+    >> du -h shows disk usage in human-readable format for all directories and subdirectories
+
+    >> du -a shows disk usage for all files
+
+ip – This displays and manages routing, devices, and can be used to assign an IP address to a specific interface.
+
+
+ 
+------------------- search_me ------------------- 
+
+
+         fdisk    
+        lsblk           
+        gparted         
+        gnome-disks     
+         nemo           
+
+ 
+------------------- this gui ------------------- 
+
+The usual, generally no arguments required
+
+
+
+------------------ xxx -help ------------------- 
+ 
+  
+ 
+------------------- man xxx ------------------- 
+    
+         
+------------------ 
+------------------ 
+------------------ 
+------------------ 
+------------------ 
+------------------ 

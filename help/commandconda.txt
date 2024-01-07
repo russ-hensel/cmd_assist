@@ -1,0 +1,115 @@
+ 
+updated feb 2022 working some 
+
+!! missing conda install
+!! missing set py env 
+
+commandconda.txt
+
+conda updates installs python modules and manages environments
+
+
+
+Base command is for conda
+
+Argument_1 ( editable drop down ) is for conda options like install...
+
+Argument_2 ( editable dropdown, dropdown has examples ) is to specify the module/environment .... 
+
+
+think it used to work but not now conda not found for some reason
+         terminal not initialized
+         works manually in terminal later
+    what it says
+    no sudo !!
+
+    You need to run those commands on a console
+         with administrative rights, in windows,
+         or with a sudo before them on linux.
+
+    I tend to run these three lines in order every time I need to update:
+
+    conda update conda -y
+    conda update --all -y
+    conda update qt pyqt spyder -y
+
+    -----
+    Updating Spyder
+
+    If you installed Spyder through Anaconda (recommended),
+    WinPython, MacPorts, or your system package manager,
+    update using those same methods. With Anaconda,
+    just run (in Anaconda Prompt if on Windows,
+              otherwise in your system terminal):
+
+    conda update anaconda
+    conda update spyder
+    conda -V # conda version
+    update install
+        >> conda update conda # to update conda and other stuff
+
+    Environments
+
+    Create a virtual environment for your project
+
+        In the terminal client enter the following where yourenvname is the name you want to call your environment, and replace x.x with the Python version you wish to use. (To see a list of available python versions first, type conda search "^python$" and press enter.)
+
+    conda create -n yourenvname python=x.x anaconda
+
+    * >> conda remove -n yourenvname -all   # delete env = yourenvname
+
+    >> conda info --envs # list environments, * for current
+    >> conda activate environment_name
+    >> conda remove -n environment_name -all # delete env = environment_name
+
+    think it used to work but not now conda not found for some reason
+         terminal not initialized
+         works manually in terminal later
+    what it says
+    no sudo !!
+
+    You need to run those commands on a console
+         with administrative rights, in windows,
+         or with a sudo before them on linux.
+
+    I tend to run these three lines in order every time I need to update:
+
+    conda update conda -y
+    conda update --all -y
+    conda update qt pyqt spyder -y
+
+    -----
+    Updating Spyder
+
+    If you installed Spyder through Anaconda (recommended),
+    WinPython, MacPorts, or your system package manager,
+    update using those same methods. With Anaconda,
+    just run (in Anaconda Prompt if on Windows,
+              otherwise in your system terminal):
+
+    conda update anaconda
+    conda update spyder
+    conda -V # conda version
+    update install
+        >> conda update conda # to update conda and other stuff
+
+    Environments
+
+    Create a virtual environment for your project
+
+        In the terminal client enter the following where
+        yourenvname is the name you want to call your environment,
+        and replace x.x with the Python version you wish to use.
+        (To see a list of available python versions first, type
+         conda search "^python$" and press enter.)
+
+    conda create -n yourenvname python=x.x anaconda
+
+    * >> conda remove -n yourenvname -all   # delete env = yourenvname
+
+    >> conda info --envs # list environments, * for current
+    >> conda activate environment_name
+    >> conda remove -n environment_name -all # delete env = environment_name
+
+
+    """

@@ -1,0 +1,1604 @@
+ 
+2023-11-16 07:27:41,703 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 07:27:41,703 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 07:27:41,704 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 07:27:41,704 - cmd_assist - Notice - 
+2023-11-16 07:27:41,704 - cmd_assist - Notice - ============================
+2023-11-16 07:27:41,704 - cmd_assist - Notice - 
+2023-11-16 07:27:41,704 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 07:27:41,704 - cmd_assist - Notice - 
+2023-11-16 07:27:41,704 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 07:27:41,704 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 07:27:41,704 - cmd_assist - Notice - Time now: 2023-11-16 12:27:41
+2023-11-16 07:27:41,704 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 07:27:42,399 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 07:27:42,400 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 07:27:42,425 - cmd_assist - DEBUG - mainloop...
+2023-11-16 07:49:08,488 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 07:49:08,488 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 07:49:08,489 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 07:49:08,489 - cmd_assist - Notice - 
+2023-11-16 07:49:08,489 - cmd_assist - Notice - ============================
+2023-11-16 07:49:08,489 - cmd_assist - Notice - 
+2023-11-16 07:49:08,489 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 07:49:08,489 - cmd_assist - Notice - 
+2023-11-16 07:49:08,490 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 07:49:08,490 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 07:49:08,490 - cmd_assist - Notice - Time now: 2023-11-16 12:49:08
+2023-11-16 07:49:08,490 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 07:49:09,239 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 07:49:09,239 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 07:49:09,297 - cmd_assist - DEBUG - mainloop...
+2023-11-16 08:04:48,256 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:04:48,267 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:04:48,268 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:04:48,268 - cmd_assist - Notice - 
+2023-11-16 08:04:48,268 - cmd_assist - Notice - ============================
+2023-11-16 08:04:48,268 - cmd_assist - Notice - 
+2023-11-16 08:04:48,268 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:04:48,268 - cmd_assist - Notice - 
+2023-11-16 08:04:48,269 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 08:04:48,269 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:04:48,269 - cmd_assist - Notice - Time now: 2023-11-16 13:04:48
+2023-11-16 08:04:48,269 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:17:07,499 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:17:07,499 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:17:07,500 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:17:07,500 - cmd_assist - Notice - 
+2023-11-16 08:17:07,500 - cmd_assist - Notice - ============================
+2023-11-16 08:17:07,500 - cmd_assist - Notice - 
+2023-11-16 08:17:07,500 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:17:07,500 - cmd_assist - Notice - 
+2023-11-16 08:17:07,500 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 08:17:07,500 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:17:07,501 - cmd_assist - Notice - Time now: 2023-11-16 13:17:07
+2023-11-16 08:17:07,501 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:17:56,439 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:17:56,440 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:17:56,440 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:17:56,440 - cmd_assist - Notice - 
+2023-11-16 08:17:56,440 - cmd_assist - Notice - ============================
+2023-11-16 08:17:56,440 - cmd_assist - Notice - 
+2023-11-16 08:17:56,440 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:17:56,441 - cmd_assist - Notice - 
+2023-11-16 08:17:56,441 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-11-16 08:17:56,441 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:17:56,441 - cmd_assist - Notice - Time now: 2023-11-16 13:17:56
+2023-11-16 08:17:56,441 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:17:57,386 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:17:57,387 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:17:57,562 - cmd_assist - DEBUG - mainloop...
+2023-11-16 08:18:07,228 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:18:07,228 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:18:07,229 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:18:07,229 - cmd_assist - Notice - 
+2023-11-16 08:18:07,229 - cmd_assist - Notice - ============================
+2023-11-16 08:18:07,229 - cmd_assist - Notice - 
+2023-11-16 08:18:07,229 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:18:07,229 - cmd_assist - Notice - 
+2023-11-16 08:18:07,229 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-11-16 08:18:07,230 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:18:07,230 - cmd_assist - Notice - Time now: 2023-11-16 13:18:07
+2023-11-16 08:18:07,230 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:18:08,102 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:18:08,102 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:18:08,124 - cmd_assist - DEBUG - mainloop...
+2023-11-16 08:18:50,963 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:18:50,963 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:18:50,964 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:18:50,964 - cmd_assist - Notice - 
+2023-11-16 08:18:50,964 - cmd_assist - Notice - ============================
+2023-11-16 08:18:50,964 - cmd_assist - Notice - 
+2023-11-16 08:18:50,964 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:18:50,964 - cmd_assist - Notice - 
+2023-11-16 08:18:50,965 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 08:18:50,965 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:18:50,965 - cmd_assist - Notice - Time now: 2023-11-16 13:18:50
+2023-11-16 08:18:50,965 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:18:51,890 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:18:51,890 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:18:51,978 - cmd_assist - DEBUG - mainloop...
+2023-11-16 08:26:50,587 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:26:50,587 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:26:50,588 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:26:50,588 - cmd_assist - Notice - 
+2023-11-16 08:26:50,588 - cmd_assist - Notice - ============================
+2023-11-16 08:26:50,588 - cmd_assist - Notice - 
+2023-11-16 08:26:50,588 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:26:50,588 - cmd_assist - Notice - 
+2023-11-16 08:26:50,589 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 08:26:50,589 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:26:50,589 - cmd_assist - Notice - Time now: 2023-11-16 13:26:50
+2023-11-16 08:26:50,589 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:26:51,410 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:26:51,411 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:26:51,435 - cmd_assist - DEBUG - mainloop...
+2023-11-16 08:34:32,525 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:34:32,525 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:34:32,527 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:34:32,527 - cmd_assist - Notice - 
+2023-11-16 08:34:32,528 - cmd_assist - Notice - ============================
+2023-11-16 08:34:32,528 - cmd_assist - Notice - 
+2023-11-16 08:34:32,528 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:34:32,528 - cmd_assist - Notice - 
+2023-11-16 08:34:32,529 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 08:34:32,529 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:34:32,529 - cmd_assist - Notice - Time now: 2023-11-16 13:34:32
+2023-11-16 08:34:32,529 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:34:33,497 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:34:33,497 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:34:33,599 - cmd_assist - DEBUG - mainloop...
+2023-11-16 08:52:54,491 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:52:54,491 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:52:54,491 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:52:54,492 - cmd_assist - Notice - 
+2023-11-16 08:52:54,492 - cmd_assist - Notice - ============================
+2023-11-16 08:52:54,492 - cmd_assist - Notice - 
+2023-11-16 08:52:54,492 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:52:54,492 - cmd_assist - Notice - 
+2023-11-16 08:52:54,492 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 08:52:54,492 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:52:54,492 - cmd_assist - Notice - Time now: 2023-11-16 13:52:54
+2023-11-16 08:52:54,492 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:52:55,086 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:52:55,086 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:52:55,119 - cmd_assist - DEBUG - mainloop...
+2023-11-16 08:56:35,021 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:56:35,021 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:56:35,021 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:56:35,022 - cmd_assist - Notice - 
+2023-11-16 08:56:35,022 - cmd_assist - Notice - ============================
+2023-11-16 08:56:35,022 - cmd_assist - Notice - 
+2023-11-16 08:56:35,022 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:56:35,022 - cmd_assist - Notice - 
+2023-11-16 08:56:35,022 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 08:56:35,022 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:56:35,022 - cmd_assist - Notice - Time now: 2023-11-16 13:56:35
+2023-11-16 08:56:35,022 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:56:35,608 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:56:35,608 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:56:35,633 - cmd_assist - DEBUG - mainloop...
+2023-11-16 08:57:36,532 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 08:57:36,532 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 08:57:36,532 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 08:57:36,532 - cmd_assist - Notice - 
+2023-11-16 08:57:36,532 - cmd_assist - Notice - ============================
+2023-11-16 08:57:36,533 - cmd_assist - Notice - 
+2023-11-16 08:57:36,533 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 08:57:36,533 - cmd_assist - Notice - 
+2023-11-16 08:57:36,533 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-16 08:57:36,533 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 08:57:36,533 - cmd_assist - Notice - Time now: 2023-11-16 13:57:36
+2023-11-16 08:57:36,533 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 08:57:37,123 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:57:37,123 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 08:57:37,144 - cmd_assist - DEBUG - mainloop...
+2023-11-16 11:33:03,211 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 11:33:03,220 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 11:33:03,221 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 11:33:03,221 - cmd_assist - Notice - 
+2023-11-16 11:33:03,221 - cmd_assist - Notice - ============================
+2023-11-16 11:33:03,221 - cmd_assist - Notice - 
+2023-11-16 11:33:03,222 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 11:33:03,222 - cmd_assist - Notice - 
+2023-11-16 11:33:03,222 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 11:33:03,222 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 11:33:03,222 - cmd_assist - Notice - Time now: 2023-11-16 16:33:03
+2023-11-16 11:33:03,222 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 11:35:19,638 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 11:35:19,639 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 11:35:19,639 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 11:35:19,639 - cmd_assist - Notice - 
+2023-11-16 11:35:19,639 - cmd_assist - Notice - ============================
+2023-11-16 11:35:19,640 - cmd_assist - Notice - 
+2023-11-16 11:35:19,640 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 11:35:19,640 - cmd_assist - Notice - 
+2023-11-16 11:35:19,640 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 11:35:19,640 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 11:35:19,640 - cmd_assist - Notice - Time now: 2023-11-16 16:35:19
+2023-11-16 11:35:19,640 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 11:35:40,234 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 11:35:40,234 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 11:35:40,235 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 11:35:40,235 - cmd_assist - Notice - 
+2023-11-16 11:35:40,235 - cmd_assist - Notice - ============================
+2023-11-16 11:35:40,235 - cmd_assist - Notice - 
+2023-11-16 11:35:40,235 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 11:35:40,235 - cmd_assist - Notice - 
+2023-11-16 11:35:40,236 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_2.py)
+2023-11-16 11:35:40,236 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 11:35:40,236 - cmd_assist - Notice - Time now: 2023-11-16 16:35:40
+2023-11-16 11:35:40,236 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 11:58:38,035 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 11:58:38,035 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 11:58:38,036 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 11:58:38,036 - cmd_assist - Notice - 
+2023-11-16 11:58:38,036 - cmd_assist - Notice - ============================
+2023-11-16 11:58:38,036 - cmd_assist - Notice - 
+2023-11-16 11:58:38,036 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 11:58:38,050 - cmd_assist - Notice - 
+2023-11-16 11:58:38,051 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 11:58:38,051 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 11:58:38,051 - cmd_assist - Notice - Time now: 2023-11-16 16:58:38
+2023-11-16 11:58:38,051 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:00:10,480 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:00:10,480 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:00:10,481 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:00:10,481 - cmd_assist - Notice - 
+2023-11-16 12:00:10,481 - cmd_assist - Notice - ============================
+2023-11-16 12:00:10,481 - cmd_assist - Notice - 
+2023-11-16 12:00:10,481 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:00:10,482 - cmd_assist - Notice - 
+2023-11-16 12:00:10,482 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:00:10,482 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:00:10,482 - cmd_assist - Notice - Time now: 2023-11-16 17:00:10
+2023-11-16 12:00:10,482 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:02:11,294 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:02:11,294 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:02:11,294 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:02:11,295 - cmd_assist - Notice - 
+2023-11-16 12:02:11,295 - cmd_assist - Notice - ============================
+2023-11-16 12:02:11,295 - cmd_assist - Notice - 
+2023-11-16 12:02:11,295 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:02:11,295 - cmd_assist - Notice - 
+2023-11-16 12:02:11,295 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:02:11,296 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:02:11,296 - cmd_assist - Notice - Time now: 2023-11-16 17:02:11
+2023-11-16 12:02:11,296 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:04:07,991 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:04:07,991 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:04:07,992 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:04:07,992 - cmd_assist - Notice - 
+2023-11-16 12:04:07,992 - cmd_assist - Notice - ============================
+2023-11-16 12:04:07,992 - cmd_assist - Notice - 
+2023-11-16 12:04:07,992 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:04:07,992 - cmd_assist - Notice - 
+2023-11-16 12:04:07,993 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:04:07,993 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:04:07,993 - cmd_assist - Notice - Time now: 2023-11-16 17:04:07
+2023-11-16 12:04:07,993 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:05:38,676 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:05:38,677 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:05:38,677 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:05:38,677 - cmd_assist - Notice - 
+2023-11-16 12:05:38,677 - cmd_assist - Notice - ============================
+2023-11-16 12:05:38,677 - cmd_assist - Notice - 
+2023-11-16 12:05:38,678 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:05:38,678 - cmd_assist - Notice - 
+2023-11-16 12:05:38,678 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:05:38,678 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:05:38,678 - cmd_assist - Notice - Time now: 2023-11-16 17:05:38
+2023-11-16 12:05:38,678 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:10:16,388 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:10:16,389 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:10:16,389 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:10:16,389 - cmd_assist - Notice - 
+2023-11-16 12:10:16,389 - cmd_assist - Notice - ============================
+2023-11-16 12:10:16,390 - cmd_assist - Notice - 
+2023-11-16 12:10:16,390 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:10:16,390 - cmd_assist - Notice - 
+2023-11-16 12:10:16,390 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_0.py)
+2023-11-16 12:10:16,390 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:10:16,390 - cmd_assist - Notice - Time now: 2023-11-16 17:10:16
+2023-11-16 12:10:16,390 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:16:35,819 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:16:35,819 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:16:35,819 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:16:35,820 - cmd_assist - Notice - 
+2023-11-16 12:16:35,820 - cmd_assist - Notice - ============================
+2023-11-16 12:16:35,820 - cmd_assist - Notice - 
+2023-11-16 12:16:35,820 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:16:35,820 - cmd_assist - Notice - 
+2023-11-16 12:16:35,820 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_1.py)
+2023-11-16 12:16:35,820 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:16:35,820 - cmd_assist - Notice - Time now: 2023-11-16 17:16:35
+2023-11-16 12:16:35,820 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:16:41,288 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:16:41,289 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:16:41,290 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:16:41,290 - cmd_assist - Notice - 
+2023-11-16 12:16:41,290 - cmd_assist - Notice - ============================
+2023-11-16 12:16:41,290 - cmd_assist - Notice - 
+2023-11-16 12:16:41,290 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:16:41,290 - cmd_assist - Notice - 
+2023-11-16 12:16:41,290 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_1.py)
+2023-11-16 12:16:41,291 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:16:41,291 - cmd_assist - Notice - Time now: 2023-11-16 17:16:41
+2023-11-16 12:16:41,291 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:16:41,938 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:16:41,938 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:16:41,961 - cmd_assist - DEBUG - mainloop...
+2023-11-16 12:37:49,299 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:37:49,300 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:37:49,302 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:37:49,303 - cmd_assist - Notice - 
+2023-11-16 12:37:49,303 - cmd_assist - Notice - ============================
+2023-11-16 12:37:49,303 - cmd_assist - Notice - 
+2023-11-16 12:37:49,304 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:37:49,304 - cmd_assist - Notice - 
+2023-11-16 12:37:49,304 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:37:49,305 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:37:49,305 - cmd_assist - Notice - Time now: 2023-11-16 17:37:49
+2023-11-16 12:37:49,305 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:37:49,979 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:37:49,979 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:37:50,012 - cmd_assist - DEBUG - mainloop...
+2023-11-16 12:38:05,265 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:38:05,265 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:38:05,265 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:38:05,266 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:38:05,266 - cmd_assist - Notice - 
+2023-11-16 12:38:05,266 - cmd_assist - Notice - ============================
+2023-11-16 12:38:05,266 - cmd_assist - Notice - 
+2023-11-16 12:38:05,266 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:38:05,266 - cmd_assist - Notice - 
+2023-11-16 12:38:05,266 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:38:05,266 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:38:05,266 - cmd_assist - Notice - Time now: 2023-11-16 17:38:05
+2023-11-16 12:38:05,267 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:38:05,886 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:38:05,886 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:38:05,941 - cmd_assist - DEBUG - mainloop...
+2023-11-16 12:40:18,284 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:40:18,284 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:40:18,285 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:40:18,285 - cmd_assist - Notice - 
+2023-11-16 12:40:18,285 - cmd_assist - Notice - ============================
+2023-11-16 12:40:18,285 - cmd_assist - Notice - 
+2023-11-16 12:40:18,285 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:40:18,285 - cmd_assist - Notice - 
+2023-11-16 12:40:18,285 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:40:18,285 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:40:18,286 - cmd_assist - Notice - Time now: 2023-11-16 17:40:18
+2023-11-16 12:40:18,286 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:41:33,035 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:41:33,036 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:41:33,036 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:41:33,036 - cmd_assist - Notice - 
+2023-11-16 12:41:33,036 - cmd_assist - Notice - ============================
+2023-11-16 12:41:33,036 - cmd_assist - Notice - 
+2023-11-16 12:41:33,036 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:41:33,036 - cmd_assist - Notice - 
+2023-11-16 12:41:33,036 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:41:33,037 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:41:33,037 - cmd_assist - Notice - Time now: 2023-11-16 17:41:33
+2023-11-16 12:41:33,037 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:41:38,400 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:41:38,400 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:41:38,401 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:41:38,401 - cmd_assist - Notice - 
+2023-11-16 12:41:38,401 - cmd_assist - Notice - ============================
+2023-11-16 12:41:38,401 - cmd_assist - Notice - 
+2023-11-16 12:41:38,401 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:41:38,401 - cmd_assist - Notice - 
+2023-11-16 12:41:38,401 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:41:38,401 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:41:38,402 - cmd_assist - Notice - Time now: 2023-11-16 17:41:38
+2023-11-16 12:41:38,402 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:41:39,025 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:41:39,025 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:41:39,049 - cmd_assist - DEBUG - mainloop...
+2023-11-16 12:41:43,446 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:41:43,446 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 12:41:43,446 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 12:41:43,447 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 12:41:43,447 - cmd_assist - Notice - 
+2023-11-16 12:41:43,447 - cmd_assist - Notice - ============================
+2023-11-16 12:41:43,447 - cmd_assist - Notice - 
+2023-11-16 12:41:43,447 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 12:41:43,447 - cmd_assist - Notice - 
+2023-11-16 12:41:43,447 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-16 12:41:43,447 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 12:41:43,448 - cmd_assist - Notice - Time now: 2023-11-16 17:41:43
+2023-11-16 12:41:43,448 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 12:41:44,075 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:41:44,075 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 12:41:44,104 - cmd_assist - DEBUG - mainloop...
+2023-11-16 13:13:21,881 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 13:13:21,881 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 13:13:21,881 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 13:13:21,881 - cmd_assist - Notice - 
+2023-11-16 13:13:21,881 - cmd_assist - Notice - ============================
+2023-11-16 13:13:21,881 - cmd_assist - Notice - 
+2023-11-16 13:13:21,881 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 13:13:21,881 - cmd_assist - Notice - 
+2023-11-16 13:13:21,881 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-16 13:13:21,881 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 13:13:21,881 - cmd_assist - Notice - Time now: 2023-11-16 18:13:21
+2023-11-16 13:13:21,882 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 13:13:22,501 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 13:13:22,502 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 13:13:22,530 - cmd_assist - DEBUG - mainloop...
+2023-11-16 18:28:25,663 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 18:28:25,675 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 18:28:25,678 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 18:28:25,686 - cmd_assist - Notice - 
+2023-11-16 18:28:25,687 - cmd_assist - Notice - ============================
+2023-11-16 18:28:25,687 - cmd_assist - Notice - 
+2023-11-16 18:28:25,688 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 18:28:25,689 - cmd_assist - Notice - 
+2023-11-16 18:28:25,689 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_1.py)
+2023-11-16 18:28:25,690 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 18:28:25,691 - cmd_assist - Notice - Time now: 2023-11-16 23:28:25
+2023-11-16 18:28:25,691 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 18:28:26,383 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 18:28:26,383 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 18:28:26,405 - cmd_assist - DEBUG - mainloop...
+2023-11-16 18:29:54,672 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 18:29:54,672 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-16 18:29:54,673 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-16 18:29:54,674 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-16 18:29:54,675 - cmd_assist - Notice - 
+2023-11-16 18:29:54,675 - cmd_assist - Notice - ============================
+2023-11-16 18:29:54,675 - cmd_assist - Notice - 
+2023-11-16 18:29:54,676 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-16 18:29:54,676 - cmd_assist - Notice - 
+2023-11-16 18:29:54,676 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_1.py)
+2023-11-16 18:29:54,676 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-16 18:29:54,696 - cmd_assist - Notice - Time now: 2023-11-16 23:29:54
+2023-11-16 18:29:54,696 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-16 18:29:55,305 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 18:29:55,305 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-16 18:29:55,337 - cmd_assist - DEBUG - mainloop...
+2023-11-17 08:12:14,208 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 08:12:14,223 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 08:12:14,225 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 08:12:14,225 - cmd_assist - Notice - 
+2023-11-17 08:12:14,225 - cmd_assist - Notice - ============================
+2023-11-17 08:12:14,225 - cmd_assist - Notice - 
+2023-11-17 08:12:14,226 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 08:12:14,226 - cmd_assist - Notice - 
+2023-11-17 08:12:14,226 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-11-17 08:12:14,226 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 08:12:14,227 - cmd_assist - Notice - Time now: 2023-11-17 13:12:14
+2023-11-17 08:12:14,227 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 08:12:14,862 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:12:14,862 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:12:14,927 - cmd_assist - DEBUG - mainloop...
+2023-11-17 08:12:30,055 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 08:12:30,056 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 08:12:30,056 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 08:12:30,056 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 08:12:30,056 - cmd_assist - Notice - 
+2023-11-17 08:12:30,057 - cmd_assist - Notice - ============================
+2023-11-17 08:12:30,057 - cmd_assist - Notice - 
+2023-11-17 08:12:30,057 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 08:12:30,057 - cmd_assist - Notice - 
+2023-11-17 08:12:30,057 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-11-17 08:12:30,057 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 08:12:30,057 - cmd_assist - Notice - Time now: 2023-11-17 13:12:30
+2023-11-17 08:12:30,057 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 08:12:30,642 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:12:30,642 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:12:30,669 - cmd_assist - DEBUG - mainloop...
+2023-11-17 08:13:03,129 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 08:13:03,129 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 08:13:03,129 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 08:13:03,130 - cmd_assist - Notice - 
+2023-11-17 08:13:03,130 - cmd_assist - Notice - ============================
+2023-11-17 08:13:03,130 - cmd_assist - Notice - 
+2023-11-17 08:13:03,130 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 08:13:03,143 - cmd_assist - Notice - 
+2023-11-17 08:13:03,143 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_5.py)
+2023-11-17 08:13:03,143 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 08:13:03,143 - cmd_assist - Notice - Time now: 2023-11-17 13:13:03
+2023-11-17 08:13:03,143 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 08:13:03,738 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:13:03,738 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:13:03,781 - cmd_assist - DEBUG - mainloop...
+2023-11-17 08:15:47,051 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 08:15:47,051 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 08:15:47,052 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 08:15:47,052 - cmd_assist - Notice - 
+2023-11-17 08:15:47,052 - cmd_assist - Notice - ============================
+2023-11-17 08:15:47,052 - cmd_assist - Notice - 
+2023-11-17 08:15:47,052 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 08:15:47,052 - cmd_assist - Notice - 
+2023-11-17 08:15:47,052 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_5.py)
+2023-11-17 08:15:47,052 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 08:15:47,053 - cmd_assist - Notice - Time now: 2023-11-17 13:15:47
+2023-11-17 08:15:47,053 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 08:15:47,658 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:15:47,659 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:15:47,684 - cmd_assist - DEBUG - mainloop...
+2023-11-17 08:22:41,352 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 08:22:41,352 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 08:22:41,353 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 08:22:41,353 - cmd_assist - Notice - 
+2023-11-17 08:22:41,354 - cmd_assist - Notice - ============================
+2023-11-17 08:22:41,354 - cmd_assist - Notice - 
+2023-11-17 08:22:41,354 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 08:22:41,354 - cmd_assist - Notice - 
+2023-11-17 08:22:41,354 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_5.py)
+2023-11-17 08:22:41,354 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 08:22:41,354 - cmd_assist - Notice - Time now: 2023-11-17 13:22:41
+2023-11-17 08:22:41,354 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 08:22:41,921 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:22:41,922 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:22:41,971 - cmd_assist - DEBUG - mainloop...
+2023-11-17 08:23:47,716 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 08:23:47,716 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 08:23:47,717 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 08:23:47,717 - cmd_assist - Notice - 
+2023-11-17 08:23:47,717 - cmd_assist - Notice - ============================
+2023-11-17 08:23:47,717 - cmd_assist - Notice - 
+2023-11-17 08:23:47,717 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 08:23:47,717 - cmd_assist - Notice - 
+2023-11-17 08:23:47,717 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_5.py)
+2023-11-17 08:23:47,717 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 08:23:47,717 - cmd_assist - Notice - Time now: 2023-11-17 13:23:47
+2023-11-17 08:23:47,717 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 08:23:48,311 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:23:48,311 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 08:23:48,336 - cmd_assist - DEBUG - mainloop...
+2023-11-17 09:25:42,073 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 09:25:42,089 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 09:25:42,091 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 09:25:42,092 - cmd_assist - Notice - 
+2023-11-17 09:25:42,092 - cmd_assist - Notice - ============================
+2023-11-17 09:25:42,093 - cmd_assist - Notice - 
+2023-11-17 09:25:42,093 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 09:25:42,093 - cmd_assist - Notice - 
+2023-11-17 09:25:42,094 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_5.py)
+2023-11-17 09:25:42,094 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 09:25:42,095 - cmd_assist - Notice - Time now: 2023-11-17 14:25:42
+2023-11-17 09:25:42,095 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 09:25:42,761 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:25:42,761 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:25:42,787 - cmd_assist - DEBUG - mainloop...
+2023-11-17 09:26:40,333 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 09:26:40,333 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 09:26:40,333 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 09:26:40,333 - cmd_assist - Notice - 
+2023-11-17 09:26:40,334 - cmd_assist - Notice - ============================
+2023-11-17 09:26:40,334 - cmd_assist - Notice - 
+2023-11-17 09:26:40,334 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 09:26:40,334 - cmd_assist - Notice - 
+2023-11-17 09:26:40,334 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_5.py)
+2023-11-17 09:26:40,334 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 09:26:40,334 - cmd_assist - Notice - Time now: 2023-11-17 14:26:40
+2023-11-17 09:26:40,334 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 09:26:40,960 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:26:40,960 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:26:40,985 - cmd_assist - DEBUG - mainloop...
+2023-11-17 09:32:02,763 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 09:32:02,763 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 09:32:02,764 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 09:32:02,764 - cmd_assist - Notice - 
+2023-11-17 09:32:02,764 - cmd_assist - Notice - ============================
+2023-11-17 09:32:02,765 - cmd_assist - Notice - 
+2023-11-17 09:32:02,765 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 09:32:02,765 - cmd_assist - Notice - 
+2023-11-17 09:32:02,765 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_5.py)
+2023-11-17 09:32:02,765 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 09:32:02,765 - cmd_assist - Notice - Time now: 2023-11-17 14:32:02
+2023-11-17 09:32:02,765 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 09:32:03,365 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:32:03,365 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:32:03,385 - cmd_assist - DEBUG - mainloop...
+2023-11-17 09:41:48,708 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 09:41:48,708 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 09:41:48,708 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 09:41:48,709 - cmd_assist - Notice - 
+2023-11-17 09:41:48,709 - cmd_assist - Notice - ============================
+2023-11-17 09:41:48,709 - cmd_assist - Notice - 
+2023-11-17 09:41:48,709 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 09:41:48,709 - cmd_assist - Notice - 
+2023-11-17 09:41:48,709 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-11-17 09:41:48,709 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 09:41:48,709 - cmd_assist - Notice - Time now: 2023-11-17 14:41:48
+2023-11-17 09:41:48,709 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 09:41:49,351 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:41:49,351 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:41:49,372 - cmd_assist - DEBUG - mainloop...
+2023-11-17 09:45:14,388 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 09:45:14,388 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 09:45:14,389 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 09:45:14,389 - cmd_assist - Notice - 
+2023-11-17 09:45:14,389 - cmd_assist - Notice - ============================
+2023-11-17 09:45:14,390 - cmd_assist - Notice - 
+2023-11-17 09:45:14,390 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 09:45:14,390 - cmd_assist - Notice - 
+2023-11-17 09:45:14,390 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_5.py)
+2023-11-17 09:45:14,390 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 09:45:14,390 - cmd_assist - Notice - Time now: 2023-11-17 14:45:14
+2023-11-17 09:45:14,390 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 09:45:14,998 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:45:14,998 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 09:45:15,020 - cmd_assist - DEBUG - mainloop...
+2023-11-17 10:09:08,679 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 10:09:08,679 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 10:09:08,680 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 10:09:08,680 - cmd_assist - Notice - 
+2023-11-17 10:09:08,680 - cmd_assist - Notice - ============================
+2023-11-17 10:09:08,680 - cmd_assist - Notice - 
+2023-11-17 10:09:08,680 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 10:09:08,680 - cmd_assist - Notice - 
+2023-11-17 10:09:08,680 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/parameters.py)
+2023-11-17 10:09:08,681 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 10:09:08,681 - cmd_assist - Notice - Time now: 2023-11-17 15:09:08
+2023-11-17 10:09:08,681 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 10:09:09,569 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:09:09,569 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:09:09,592 - cmd_assist - DEBUG - mainloop...
+2023-11-17 10:10:04,051 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 10:10:04,051 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 10:10:04,052 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 10:10:04,052 - cmd_assist - Notice - 
+2023-11-17 10:10:04,052 - cmd_assist - Notice - ============================
+2023-11-17 10:10:04,053 - cmd_assist - Notice - 
+2023-11-17 10:10:04,053 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 10:10:04,053 - cmd_assist - Notice - 
+2023-11-17 10:10:04,053 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-11-17 10:10:04,053 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 10:10:04,053 - cmd_assist - Notice - Time now: 2023-11-17 15:10:04
+2023-11-17 10:10:04,053 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 10:10:05,042 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:10:05,043 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:10:05,097 - cmd_assist - DEBUG - mainloop...
+2023-11-17 10:13:13,909 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 10:13:13,909 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 10:13:13,910 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 10:13:13,910 - cmd_assist - Notice - 
+2023-11-17 10:13:13,911 - cmd_assist - Notice - ============================
+2023-11-17 10:13:13,911 - cmd_assist - Notice - 
+2023-11-17 10:13:13,911 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 10:13:13,911 - cmd_assist - Notice - 
+2023-11-17 10:13:13,911 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/parameters.py)
+2023-11-17 10:13:13,911 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 10:13:13,911 - cmd_assist - Notice - Time now: 2023-11-17 15:13:13
+2023-11-17 10:13:13,911 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 10:13:14,838 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:13:14,838 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:13:14,955 - cmd_assist - DEBUG - mainloop...
+2023-11-17 10:22:12,350 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 10:22:12,350 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 10:22:12,350 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 10:22:12,351 - cmd_assist - Notice - 
+2023-11-17 10:22:12,351 - cmd_assist - Notice - ============================
+2023-11-17 10:22:12,351 - cmd_assist - Notice - 
+2023-11-17 10:22:12,351 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 10:22:12,351 - cmd_assist - Notice - 
+2023-11-17 10:22:12,351 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_0.py)
+2023-11-17 10:22:12,351 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 10:22:12,351 - cmd_assist - Notice - Time now: 2023-11-17 15:22:12
+2023-11-17 10:22:12,351 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 10:22:13,262 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:22:13,262 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:22:13,302 - cmd_assist - DEBUG - mainloop...
+2023-11-17 10:25:46,092 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-17 10:25:46,092 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-17 10:25:46,093 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-17 10:25:46,093 - cmd_assist - Notice - 
+2023-11-17 10:25:46,093 - cmd_assist - Notice - ============================
+2023-11-17 10:25:46,093 - cmd_assist - Notice - 
+2023-11-17 10:25:46,093 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-17 10:25:46,093 - cmd_assist - Notice - 
+2023-11-17 10:25:46,093 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_0.py)
+2023-11-17 10:25:46,093 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-17 10:25:46,093 - cmd_assist - Notice - Time now: 2023-11-17 15:25:46
+2023-11-17 10:25:46,093 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-17 10:25:46,983 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:25:46,983 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-17 10:25:47,017 - cmd_assist - DEBUG - mainloop...
+2023-11-18 12:05:01,077 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-18 12:05:01,078 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-18 12:05:01,079 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-18 12:05:01,080 - cmd_assist - Notice - 
+2023-11-18 12:05:01,080 - cmd_assist - Notice - ============================
+2023-11-18 12:05:01,081 - cmd_assist - Notice - 
+2023-11-18 12:05:01,081 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-18 12:05:01,081 - cmd_assist - Notice - 
+2023-11-18 12:05:01,082 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-18 12:05:01,082 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-18 12:05:01,116 - cmd_assist - Notice - Time now: 2023-11-18 17:05:01
+2023-11-18 12:05:01,116 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-18 12:05:01,709 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-18 12:05:01,710 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-18 12:05:01,730 - cmd_assist - DEBUG - mainloop...
+2023-11-19 08:03:42,118 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-19 08:03:42,133 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-19 08:03:42,135 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-19 08:03:42,136 - cmd_assist - Notice - 
+2023-11-19 08:03:42,137 - cmd_assist - Notice - ============================
+2023-11-19 08:03:42,137 - cmd_assist - Notice - 
+2023-11-19 08:03:42,137 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-19 08:03:42,137 - cmd_assist - Notice - 
+2023-11-19 08:03:42,138 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-19 08:03:42,138 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-19 08:03:42,139 - cmd_assist - Notice - Time now: 2023-11-19 13:03:42
+2023-11-19 08:03:42,139 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-19 08:03:42,822 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 08:03:42,822 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 08:03:42,849 - cmd_assist - DEBUG - mainloop...
+2023-11-19 08:09:55,160 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-19 08:09:55,160 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-19 08:09:55,161 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-19 08:09:55,161 - cmd_assist - Notice - 
+2023-11-19 08:09:55,161 - cmd_assist - Notice - ============================
+2023-11-19 08:09:55,161 - cmd_assist - Notice - 
+2023-11-19 08:09:55,161 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-19 08:09:55,161 - cmd_assist - Notice - 
+2023-11-19 08:09:55,161 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-19 08:09:55,161 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-19 08:09:55,161 - cmd_assist - Notice - Time now: 2023-11-19 13:09:55
+2023-11-19 08:09:55,161 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-19 08:09:55,701 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 08:09:55,701 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 08:09:55,727 - cmd_assist - DEBUG - mainloop...
+2023-11-19 10:18:15,526 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-19 10:18:15,526 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-19 10:18:15,527 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-19 10:18:15,527 - cmd_assist - Notice - 
+2023-11-19 10:18:15,527 - cmd_assist - Notice - ============================
+2023-11-19 10:18:15,527 - cmd_assist - Notice - 
+2023-11-19 10:18:15,527 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-19 10:18:15,528 - cmd_assist - Notice - 
+2023-11-19 10:18:15,554 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-19 10:18:15,554 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-19 10:18:15,554 - cmd_assist - Notice - Time now: 2023-11-19 15:18:15
+2023-11-19 10:18:15,554 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-19 10:18:16,155 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 10:18:16,155 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 10:18:16,179 - cmd_assist - DEBUG - mainloop...
+2023-11-19 10:22:58,805 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-19 10:22:58,806 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-19 10:22:58,807 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-19 10:22:58,808 - cmd_assist - Notice - 
+2023-11-19 10:22:58,808 - cmd_assist - Notice - ============================
+2023-11-19 10:22:58,808 - cmd_assist - Notice - 
+2023-11-19 10:22:58,809 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-19 10:22:58,809 - cmd_assist - Notice - 
+2023-11-19 10:22:58,809 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-19 10:22:58,809 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-19 10:22:58,809 - cmd_assist - Notice - Time now: 2023-11-19 15:22:58
+2023-11-19 10:22:58,809 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-19 10:22:59,426 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 10:22:59,426 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 10:22:59,447 - cmd_assist - DEBUG - mainloop...
+2023-11-19 10:25:48,413 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-19 10:25:48,413 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-19 10:25:48,414 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-19 10:25:48,414 - cmd_assist - Notice - 
+2023-11-19 10:25:48,414 - cmd_assist - Notice - ============================
+2023-11-19 10:25:48,415 - cmd_assist - Notice - 
+2023-11-19 10:25:48,415 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-19 10:25:48,415 - cmd_assist - Notice - 
+2023-11-19 10:25:48,415 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-19 10:25:48,415 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-19 10:25:48,415 - cmd_assist - Notice - Time now: 2023-11-19 15:25:48
+2023-11-19 10:25:48,415 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-19 10:25:48,963 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 10:25:48,964 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 10:25:48,998 - cmd_assist - DEBUG - mainloop...
+2023-11-19 13:34:51,364 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-19 13:34:51,409 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-19 13:34:51,410 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-19 13:34:51,410 - cmd_assist - Notice - 
+2023-11-19 13:34:51,411 - cmd_assist - Notice - ============================
+2023-11-19 13:34:51,423 - cmd_assist - Notice - 
+2023-11-19 13:34:51,424 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-19 13:34:51,424 - cmd_assist - Notice - 
+2023-11-19 13:34:51,425 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-19 13:34:51,425 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-19 13:34:51,425 - cmd_assist - Notice - Time now: 2023-11-19 18:34:51
+2023-11-19 13:34:51,426 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-19 13:34:51,997 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 13:34:51,997 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-19 13:34:52,019 - cmd_assist - DEBUG - mainloop...
+2023-11-23 07:55:30,936 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-23 07:55:30,948 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-23 07:55:30,949 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-23 07:55:30,949 - cmd_assist - Notice - 
+2023-11-23 07:55:30,950 - cmd_assist - Notice - ============================
+2023-11-23 07:55:30,950 - cmd_assist - Notice - 
+2023-11-23 07:55:30,951 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-23 07:55:30,951 - cmd_assist - Notice - 
+2023-11-23 07:55:30,951 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-23 07:55:30,951 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-23 07:55:30,952 - cmd_assist - Notice - Time now: 2023-11-23 12:55:30
+2023-11-23 07:55:30,952 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-23 07:55:31,516 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-23 07:55:31,516 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-23 07:55:31,535 - cmd_assist - DEBUG - mainloop...
+2023-11-26 12:19:18,526 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 12:19:18,540 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 12:19:18,540 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 12:19:18,540 - cmd_assist - Notice - 
+2023-11-26 12:19:18,541 - cmd_assist - Notice - ============================
+2023-11-26 12:19:18,541 - cmd_assist - Notice - 
+2023-11-26 12:19:18,541 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 12:19:18,541 - cmd_assist - Notice - 
+2023-11-26 12:19:18,541 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-26 12:19:18,541 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 12:19:18,541 - cmd_assist - Notice - Time now: 2023-11-26 17:19:18
+2023-11-26 12:19:18,541 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 12:19:19,103 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 12:19:19,103 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 12:19:19,123 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:05:49,231 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:05:49,231 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:05:49,232 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:05:49,232 - cmd_assist - Notice - 
+2023-11-26 14:05:49,247 - cmd_assist - Notice - ============================
+2023-11-26 14:05:49,247 - cmd_assist - Notice - 
+2023-11-26 14:05:49,247 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:05:49,248 - cmd_assist - Notice - 
+2023-11-26 14:05:49,248 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_2.py)
+2023-11-26 14:05:49,249 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:05:49,249 - cmd_assist - Notice - Time now: 2023-11-26 19:05:49
+2023-11-26 14:05:49,249 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:05:49,866 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:05:49,867 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:05:49,906 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:13:41,347 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:13:41,347 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:13:41,348 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:13:41,348 - cmd_assist - Notice - 
+2023-11-26 14:13:41,348 - cmd_assist - Notice - ============================
+2023-11-26 14:13:41,348 - cmd_assist - Notice - 
+2023-11-26 14:13:41,348 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:13:41,348 - cmd_assist - Notice - 
+2023-11-26 14:13:41,348 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:13:41,348 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:13:41,349 - cmd_assist - Notice - Time now: 2023-11-26 19:13:41
+2023-11-26 14:13:41,349 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:13:41,950 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:13:41,950 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:13:41,983 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:14:25,072 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:14:25,072 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:14:25,072 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:14:25,072 - cmd_assist - Notice - 
+2023-11-26 14:14:25,072 - cmd_assist - Notice - ============================
+2023-11-26 14:14:25,073 - cmd_assist - Notice - 
+2023-11-26 14:14:25,073 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:14:25,073 - cmd_assist - Notice - 
+2023-11-26 14:14:25,073 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:14:25,073 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:14:25,073 - cmd_assist - Notice - Time now: 2023-11-26 19:14:25
+2023-11-26 14:14:25,073 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:14:41,636 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:14:41,636 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:14:41,637 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:14:41,637 - cmd_assist - Notice - 
+2023-11-26 14:14:41,637 - cmd_assist - Notice - ============================
+2023-11-26 14:14:41,637 - cmd_assist - Notice - 
+2023-11-26 14:14:41,637 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:14:41,637 - cmd_assist - Notice - 
+2023-11-26 14:14:41,637 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:14:41,637 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:14:41,637 - cmd_assist - Notice - Time now: 2023-11-26 19:14:41
+2023-11-26 14:14:41,638 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:14:50,379 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:14:50,379 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:14:50,380 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:14:50,380 - cmd_assist - Notice - 
+2023-11-26 14:14:50,380 - cmd_assist - Notice - ============================
+2023-11-26 14:14:50,380 - cmd_assist - Notice - 
+2023-11-26 14:14:50,380 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:14:50,380 - cmd_assist - Notice - 
+2023-11-26 14:14:50,380 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:14:50,381 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:14:50,381 - cmd_assist - Notice - Time now: 2023-11-26 19:14:50
+2023-11-26 14:14:50,381 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:14:50,986 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:14:50,986 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:14:51,009 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:16:58,378 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:16:58,378 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:16:58,379 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:16:58,379 - cmd_assist - Notice - 
+2023-11-26 14:16:58,379 - cmd_assist - Notice - ============================
+2023-11-26 14:16:58,379 - cmd_assist - Notice - 
+2023-11-26 14:16:58,379 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:16:58,379 - cmd_assist - Notice - 
+2023-11-26 14:16:58,379 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/cmd_assist.py)
+2023-11-26 14:16:58,379 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:16:58,379 - cmd_assist - Notice - Time now: 2023-11-26 19:16:58
+2023-11-26 14:16:58,379 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:16:58,960 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:16:58,961 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:16:58,987 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:17:41,732 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:17:41,732 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:17:41,733 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:17:41,733 - cmd_assist - Notice - 
+2023-11-26 14:17:41,733 - cmd_assist - Notice - ============================
+2023-11-26 14:17:41,733 - cmd_assist - Notice - 
+2023-11-26 14:17:41,733 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:17:41,733 - cmd_assist - Notice - 
+2023-11-26 14:17:41,733 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/cmd_assist.py)
+2023-11-26 14:17:41,734 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:17:41,734 - cmd_assist - Notice - Time now: 2023-11-26 19:17:41
+2023-11-26 14:17:41,734 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:17:42,292 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:17:42,292 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:17:42,317 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:18:51,913 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:18:51,913 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:18:51,913 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:18:51,914 - cmd_assist - Notice - 
+2023-11-26 14:18:51,914 - cmd_assist - Notice - ============================
+2023-11-26 14:18:51,914 - cmd_assist - Notice - 
+2023-11-26 14:18:51,914 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:18:51,914 - cmd_assist - Notice - 
+2023-11-26 14:18:51,914 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_0.py)
+2023-11-26 14:18:51,914 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:18:51,914 - cmd_assist - Notice - Time now: 2023-11-26 19:18:51
+2023-11-26 14:18:51,914 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:18:52,509 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:18:52,510 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:18:52,544 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:34:26,535 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:34:26,535 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:34:26,536 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:34:26,536 - cmd_assist - Notice - 
+2023-11-26 14:34:26,536 - cmd_assist - Notice - ============================
+2023-11-26 14:34:26,536 - cmd_assist - Notice - 
+2023-11-26 14:34:26,536 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:34:26,536 - cmd_assist - Notice - 
+2023-11-26 14:34:26,536 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-26 14:34:26,536 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:34:26,536 - cmd_assist - Notice - Time now: 2023-11-26 19:34:26
+2023-11-26 14:34:26,537 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:34:27,102 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:34:27,103 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:34:27,155 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:39:35,214 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:39:35,215 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:39:35,215 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:39:35,216 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:39:35,217 - cmd_assist - Notice - 
+2023-11-26 14:39:35,217 - cmd_assist - Notice - ============================
+2023-11-26 14:39:35,218 - cmd_assist - Notice - 
+2023-11-26 14:39:35,218 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:39:35,219 - cmd_assist - Notice - 
+2023-11-26 14:39:35,219 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-26 14:39:35,219 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:39:35,219 - cmd_assist - Notice - Time now: 2023-11-26 19:39:35
+2023-11-26 14:39:35,220 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:39:35,817 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:39:35,817 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:39:35,842 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:39:42,068 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:39:42,068 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:39:42,068 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:39:42,069 - cmd_assist - Notice - 
+2023-11-26 14:39:42,069 - cmd_assist - Notice - ============================
+2023-11-26 14:39:42,069 - cmd_assist - Notice - 
+2023-11-26 14:39:42,069 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:39:42,069 - cmd_assist - Notice - 
+2023-11-26 14:39:42,069 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:39:42,069 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:39:42,069 - cmd_assist - Notice - Time now: 2023-11-26 19:39:42
+2023-11-26 14:39:42,070 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:39:42,638 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:39:42,638 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:39:42,663 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:40:43,225 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:40:43,225 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:40:43,226 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:40:43,226 - cmd_assist - Notice - 
+2023-11-26 14:40:43,226 - cmd_assist - Notice - ============================
+2023-11-26 14:40:43,226 - cmd_assist - Notice - 
+2023-11-26 14:40:43,226 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:40:43,226 - cmd_assist - Notice - 
+2023-11-26 14:40:43,226 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:40:43,226 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:40:43,226 - cmd_assist - Notice - Time now: 2023-11-26 19:40:43
+2023-11-26 14:40:43,226 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:42:02,890 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:42:02,890 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:42:02,890 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:42:02,891 - cmd_assist - Notice - 
+2023-11-26 14:42:02,891 - cmd_assist - Notice - ============================
+2023-11-26 14:42:02,891 - cmd_assist - Notice - 
+2023-11-26 14:42:02,891 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:42:02,891 - cmd_assist - Notice - 
+2023-11-26 14:42:02,891 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/parameters.py)
+2023-11-26 14:42:02,891 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:42:02,892 - cmd_assist - Notice - Time now: 2023-11-26 19:42:02
+2023-11-26 14:42:02,892 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:42:08,735 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:42:08,735 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:42:08,736 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:42:08,736 - cmd_assist - Notice - 
+2023-11-26 14:42:08,736 - cmd_assist - Notice - ============================
+2023-11-26 14:42:08,737 - cmd_assist - Notice - 
+2023-11-26 14:42:08,737 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:42:08,737 - cmd_assist - Notice - 
+2023-11-26 14:42:08,737 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/parameters.py)
+2023-11-26 14:42:08,737 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:42:08,737 - cmd_assist - Notice - Time now: 2023-11-26 19:42:08
+2023-11-26 14:42:08,737 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:43:57,279 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:43:57,279 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:43:57,280 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:43:57,280 - cmd_assist - Notice - 
+2023-11-26 14:43:57,280 - cmd_assist - Notice - ============================
+2023-11-26 14:43:57,280 - cmd_assist - Notice - 
+2023-11-26 14:43:57,280 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:43:57,281 - cmd_assist - Notice - 
+2023-11-26 14:43:57,281 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/cmd_assist.py)
+2023-11-26 14:43:57,281 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:43:57,281 - cmd_assist - Notice - Time now: 2023-11-26 19:43:57
+2023-11-26 14:43:57,281 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:44:01,407 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:44:01,407 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:44:01,408 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:44:01,408 - cmd_assist - Notice - 
+2023-11-26 14:44:01,408 - cmd_assist - Notice - ============================
+2023-11-26 14:44:01,408 - cmd_assist - Notice - 
+2023-11-26 14:44:01,408 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:44:01,409 - cmd_assist - Notice - 
+2023-11-26 14:44:01,409 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/cmd_assist.py)
+2023-11-26 14:44:01,409 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:44:01,409 - cmd_assist - Notice - Time now: 2023-11-26 19:44:01
+2023-11-26 14:44:01,409 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:45:13,645 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:45:13,645 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:45:13,646 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:45:13,646 - cmd_assist - Notice - 
+2023-11-26 14:45:13,646 - cmd_assist - Notice - ============================
+2023-11-26 14:45:13,646 - cmd_assist - Notice - 
+2023-11-26 14:45:13,646 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:45:13,646 - cmd_assist - Notice - 
+2023-11-26 14:45:13,646 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/parameters.py)
+2023-11-26 14:45:13,646 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:45:13,647 - cmd_assist - Notice - Time now: 2023-11-26 19:45:13
+2023-11-26 14:45:13,647 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:45:21,502 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:45:21,502 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:45:21,503 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:45:21,503 - cmd_assist - Notice - 
+2023-11-26 14:45:21,503 - cmd_assist - Notice - ============================
+2023-11-26 14:45:21,503 - cmd_assist - Notice - 
+2023-11-26 14:45:21,503 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:45:21,503 - cmd_assist - Notice - 
+2023-11-26 14:45:21,503 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/parameters.py)
+2023-11-26 14:45:21,503 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:45:21,503 - cmd_assist - Notice - Time now: 2023-11-26 19:45:21
+2023-11-26 14:45:21,504 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:46:41,034 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:46:41,034 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:46:41,035 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:46:41,035 - cmd_assist - Notice - 
+2023-11-26 14:46:41,035 - cmd_assist - Notice - ============================
+2023-11-26 14:46:41,035 - cmd_assist - Notice - 
+2023-11-26 14:46:41,035 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:46:41,035 - cmd_assist - Notice - 
+2023-11-26 14:46:41,035 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/cmd_assist.py)
+2023-11-26 14:46:41,035 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:46:41,035 - cmd_assist - Notice - Time now: 2023-11-26 19:46:41
+2023-11-26 14:46:41,035 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:46:46,174 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:46:46,174 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:46:46,175 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:46:46,175 - cmd_assist - Notice - 
+2023-11-26 14:46:46,175 - cmd_assist - Notice - ============================
+2023-11-26 14:46:46,175 - cmd_assist - Notice - 
+2023-11-26 14:46:46,175 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:46:46,175 - cmd_assist - Notice - 
+2023-11-26 14:46:46,176 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/cmd_assist.py)
+2023-11-26 14:46:46,176 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:46:46,176 - cmd_assist - Notice - Time now: 2023-11-26 19:46:46
+2023-11-26 14:46:46,176 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:47:30,044 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:47:30,044 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:47:30,045 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:47:30,045 - cmd_assist - Notice - 
+2023-11-26 14:47:30,045 - cmd_assist - Notice - ============================
+2023-11-26 14:47:30,045 - cmd_assist - Notice - 
+2023-11-26 14:47:30,045 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:47:30,045 - cmd_assist - Notice - 
+2023-11-26 14:47:30,046 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:47:30,046 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:47:30,046 - cmd_assist - Notice - Time now: 2023-11-26 19:47:30
+2023-11-26 14:47:30,046 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:47:35,061 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:47:35,062 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:47:35,062 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:47:35,062 - cmd_assist - Notice - 
+2023-11-26 14:47:35,062 - cmd_assist - Notice - ============================
+2023-11-26 14:47:35,063 - cmd_assist - Notice - 
+2023-11-26 14:47:35,063 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:47:35,063 - cmd_assist - Notice - 
+2023-11-26 14:47:35,063 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:47:35,063 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:47:35,063 - cmd_assist - Notice - Time now: 2023-11-26 19:47:35
+2023-11-26 14:47:35,063 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:47:50,628 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:47:50,628 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:47:50,629 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:47:50,629 - cmd_assist - Notice - 
+2023-11-26 14:47:50,629 - cmd_assist - Notice - ============================
+2023-11-26 14:47:50,629 - cmd_assist - Notice - 
+2023-11-26 14:47:50,629 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:47:50,629 - cmd_assist - Notice - 
+2023-11-26 14:47:50,629 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:47:50,629 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:47:50,629 - cmd_assist - Notice - Time now: 2023-11-26 19:47:50
+2023-11-26 14:47:50,629 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:47:55,310 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:47:55,310 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:47:55,311 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:47:55,311 - cmd_assist - Notice - 
+2023-11-26 14:47:55,311 - cmd_assist - Notice - ============================
+2023-11-26 14:47:55,311 - cmd_assist - Notice - 
+2023-11-26 14:47:55,311 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:47:55,311 - cmd_assist - Notice - 
+2023-11-26 14:47:55,311 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:47:55,311 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:47:55,312 - cmd_assist - Notice - Time now: 2023-11-26 19:47:55
+2023-11-26 14:47:55,312 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:48:08,461 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:48:08,461 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:48:08,461 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:48:08,461 - cmd_assist - Notice - 
+2023-11-26 14:48:08,462 - cmd_assist - Notice - ============================
+2023-11-26 14:48:08,462 - cmd_assist - Notice - 
+2023-11-26 14:48:08,462 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:48:08,462 - cmd_assist - Notice - 
+2023-11-26 14:48:08,462 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:48:08,462 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:48:08,462 - cmd_assist - Notice - Time now: 2023-11-26 19:48:08
+2023-11-26 14:48:08,462 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:48:13,667 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:48:13,667 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:48:13,668 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:48:13,668 - cmd_assist - Notice - 
+2023-11-26 14:48:13,668 - cmd_assist - Notice - ============================
+2023-11-26 14:48:13,668 - cmd_assist - Notice - 
+2023-11-26 14:48:13,669 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:48:13,669 - cmd_assist - Notice - 
+2023-11-26 14:48:13,669 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 14:48:13,669 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:48:13,669 - cmd_assist - Notice - Time now: 2023-11-26 19:48:13
+2023-11-26 14:48:13,669 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:48:14,304 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:48:14,304 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:48:14,326 - cmd_assist - DEBUG - mainloop...
+2023-11-26 14:51:55,707 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 14:51:55,707 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 14:51:55,707 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 14:51:55,708 - cmd_assist - Notice - 
+2023-11-26 14:51:55,708 - cmd_assist - Notice - ============================
+2023-11-26 14:51:55,708 - cmd_assist - Notice - 
+2023-11-26 14:51:55,708 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 14:51:55,708 - cmd_assist - Notice - 
+2023-11-26 14:51:55,708 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-26 14:51:55,708 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 14:51:55,708 - cmd_assist - Notice - Time now: 2023-11-26 19:51:55
+2023-11-26 14:51:55,708 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 14:51:56,309 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:51:56,309 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 14:51:56,344 - cmd_assist - DEBUG - mainloop...
+2023-11-26 15:06:45,189 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 15:06:45,190 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 15:06:45,190 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 15:06:45,191 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 15:06:45,191 - cmd_assist - Notice - 
+2023-11-26 15:06:45,191 - cmd_assist - Notice - ============================
+2023-11-26 15:06:45,192 - cmd_assist - Notice - 
+2023-11-26 15:06:45,192 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 15:06:45,192 - cmd_assist - Notice - 
+2023-11-26 15:06:45,192 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-26 15:06:45,192 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 15:06:45,192 - cmd_assist - Notice - Time now: 2023-11-26 20:06:45
+2023-11-26 15:06:45,193 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 15:06:45,835 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 15:06:45,835 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 15:06:45,864 - cmd_assist - DEBUG - mainloop...
+2023-11-26 15:08:06,222 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-26 15:08:06,222 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-26 15:08:06,223 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-26 15:08:06,223 - cmd_assist - Notice - 
+2023-11-26 15:08:06,223 - cmd_assist - Notice - ============================
+2023-11-26 15:08:06,223 - cmd_assist - Notice - 
+2023-11-26 15:08:06,223 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 04 01.0
+2023-11-26 15:08:06,223 - cmd_assist - Notice - 
+2023-11-26 15:08:06,223 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-26 15:08:06,224 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-26 15:08:06,224 - cmd_assist - Notice - Time now: 2023-11-26 20:08:06
+2023-11-26 15:08:06,224 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-26 15:08:06,550 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 15:08:06,550 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-26 15:08:06,573 - cmd_assist - DEBUG - mainloop...
+2023-11-28 11:35:46,940 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 11:35:46,940 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 11:35:46,940 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 11:35:46,940 - cmd_assist - Notice - 
+2023-11-28 11:35:46,940 - cmd_assist - Notice - ============================
+2023-11-28 11:35:46,941 - cmd_assist - Notice - 
+2023-11-28 11:35:46,941 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 11:35:46,941 - cmd_assist - Notice - 
+2023-11-28 11:35:46,941 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-28 11:35:46,952 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 11:35:46,953 - cmd_assist - Notice - Time now: 2023-11-28 16:35:46
+2023-11-28 11:35:46,953 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 11:35:51,150 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 11:35:51,150 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 11:35:51,150 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 11:35:51,150 - cmd_assist - Notice - 
+2023-11-28 11:35:51,151 - cmd_assist - Notice - ============================
+2023-11-28 11:35:51,151 - cmd_assist - Notice - 
+2023-11-28 11:35:51,151 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 11:35:51,151 - cmd_assist - Notice - 
+2023-11-28 11:35:51,151 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-28 11:35:51,151 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 11:35:51,151 - cmd_assist - Notice - Time now: 2023-11-28 16:35:51
+2023-11-28 11:35:51,151 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 11:35:56,891 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 11:35:56,891 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 11:35:56,891 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 11:35:56,891 - cmd_assist - Notice - 
+2023-11-28 11:35:56,891 - cmd_assist - Notice - ============================
+2023-11-28 11:35:56,891 - cmd_assist - Notice - 
+2023-11-28 11:35:56,891 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 11:35:56,891 - cmd_assist - Notice - 
+2023-11-28 11:35:56,891 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-28 11:35:56,892 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 11:35:56,892 - cmd_assist - Notice - Time now: 2023-11-28 16:35:56
+2023-11-28 11:35:56,892 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 11:36:08,902 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 11:36:08,902 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 11:36:08,902 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 11:36:08,902 - cmd_assist - Notice - 
+2023-11-28 11:36:08,902 - cmd_assist - Notice - ============================
+2023-11-28 11:36:08,902 - cmd_assist - Notice - 
+2023-11-28 11:36:08,902 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 11:36:08,903 - cmd_assist - Notice - 
+2023-11-28 11:36:08,903 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-28 11:36:08,903 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 11:36:08,903 - cmd_assist - Notice - Time now: 2023-11-28 16:36:08
+2023-11-28 11:36:08,903 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 12:59:34,428 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 12:59:34,428 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 12:59:34,428 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 12:59:34,428 - cmd_assist - Notice - 
+2023-11-28 12:59:34,428 - cmd_assist - Notice - ============================
+2023-11-28 12:59:34,428 - cmd_assist - Notice - 
+2023-11-28 12:59:34,428 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 12:59:34,428 - cmd_assist - Notice - 
+2023-11-28 12:59:34,428 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-28 12:59:34,428 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 12:59:34,428 - cmd_assist - Notice - Time now: 2023-11-28 17:59:34
+2023-11-28 12:59:34,429 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 12:59:37,627 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 12:59:37,627 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 12:59:37,627 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 12:59:37,627 - cmd_assist - Notice - 
+2023-11-28 12:59:37,627 - cmd_assist - Notice - ============================
+2023-11-28 12:59:37,627 - cmd_assist - Notice - 
+2023-11-28 12:59:37,627 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 12:59:37,627 - cmd_assist - Notice - 
+2023-11-28 12:59:37,627 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-28 12:59:37,627 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 12:59:37,627 - cmd_assist - Notice - Time now: 2023-11-28 17:59:37
+2023-11-28 12:59:37,628 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:00:16,853 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:00:16,853 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:00:16,855 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:00:16,856 - cmd_assist - Notice - 
+2023-11-28 21:00:16,857 - cmd_assist - Notice - ============================
+2023-11-28 21:00:16,857 - cmd_assist - Notice - 
+2023-11-28 21:00:16,858 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:00:16,858 - cmd_assist - Notice - 
+2023-11-28 21:00:16,859 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-11-28 21:00:16,859 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:00:16,859 - cmd_assist - Notice - Time now: 2023-11-29 02:00:16
+2023-11-28 21:00:16,860 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:00:44,267 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:00:44,267 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:00:44,268 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:00:44,268 - cmd_assist - Notice - 
+2023-11-28 21:00:44,269 - cmd_assist - Notice - ============================
+2023-11-28 21:00:44,269 - cmd_assist - Notice - 
+2023-11-28 21:00:44,269 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:00:44,269 - cmd_assist - Notice - 
+2023-11-28 21:00:44,269 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_4.py)
+2023-11-28 21:00:44,269 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:00:44,269 - cmd_assist - Notice - Time now: 2023-11-29 02:00:44
+2023-11-28 21:00:44,269 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:00:59,945 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:00:59,945 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:00:59,946 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:00:59,946 - cmd_assist - Notice - 
+2023-11-28 21:00:59,946 - cmd_assist - Notice - ============================
+2023-11-28 21:00:59,946 - cmd_assist - Notice - 
+2023-11-28 21:00:59,947 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:00:59,947 - cmd_assist - Notice - 
+2023-11-28 21:00:59,947 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/main.py)
+2023-11-28 21:00:59,947 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:00:59,947 - cmd_assist - Notice - Time now: 2023-11-29 02:00:59
+2023-11-28 21:00:59,948 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:01:43,978 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:01:43,978 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:01:43,979 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:01:43,979 - cmd_assist - Notice - 
+2023-11-28 21:01:43,979 - cmd_assist - Notice - ============================
+2023-11-28 21:01:43,979 - cmd_assist - Notice - 
+2023-11-28 21:01:43,980 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:01:43,980 - cmd_assist - Notice - 
+2023-11-28 21:01:43,980 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-28 21:01:43,980 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:01:43,980 - cmd_assist - Notice - Time now: 2023-11-29 02:01:43
+2023-11-28 21:01:43,980 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:01:49,145 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:01:49,146 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:01:49,146 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:01:49,147 - cmd_assist - Notice - 
+2023-11-28 21:01:49,147 - cmd_assist - Notice - ============================
+2023-11-28 21:01:49,147 - cmd_assist - Notice - 
+2023-11-28 21:01:49,147 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:01:49,147 - cmd_assist - Notice - 
+2023-11-28 21:01:49,147 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-11-28 21:01:49,147 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:01:49,147 - cmd_assist - Notice - Time now: 2023-11-29 02:01:49
+2023-11-28 21:01:49,147 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:01:49,434 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:01:49,434 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:01:49,458 - cmd_assist - DEBUG - mainloop...
+2023-11-28 21:12:27,521 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:12:27,521 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:12:27,522 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:12:27,522 - cmd_assist - Notice - 
+2023-11-28 21:12:27,522 - cmd_assist - Notice - ============================
+2023-11-28 21:12:27,523 - cmd_assist - Notice - 
+2023-11-28 21:12:27,523 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:12:27,523 - cmd_assist - Notice - 
+2023-11-28 21:12:27,523 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-28 21:12:27,523 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:12:27,523 - cmd_assist - Notice - Time now: 2023-11-29 02:12:27
+2023-11-28 21:12:27,523 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:12:27,814 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:12:27,814 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:12:27,838 - cmd_assist - DEBUG - mainloop...
+2023-11-28 21:15:13,220 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:15:13,220 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:15:13,221 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:15:13,221 - cmd_assist - Notice - 
+2023-11-28 21:15:13,221 - cmd_assist - Notice - ============================
+2023-11-28 21:15:13,221 - cmd_assist - Notice - 
+2023-11-28 21:15:13,221 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:15:13,221 - cmd_assist - Notice - 
+2023-11-28 21:15:13,221 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_0.py)
+2023-11-28 21:15:13,221 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:15:13,221 - cmd_assist - Notice - Time now: 2023-11-29 02:15:13
+2023-11-28 21:15:13,221 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:15:13,464 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:15:13,464 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:15:13,498 - cmd_assist - DEBUG - mainloop...
+2023-11-28 21:16:57,632 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:16:57,632 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:16:57,634 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:16:57,634 - cmd_assist - Notice - 
+2023-11-28 21:16:57,634 - cmd_assist - Notice - ============================
+2023-11-28 21:16:57,634 - cmd_assist - Notice - 
+2023-11-28 21:16:57,635 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:16:57,635 - cmd_assist - Notice - 
+2023-11-28 21:16:57,635 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-28 21:16:57,635 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:16:57,635 - cmd_assist - Notice - Time now: 2023-11-29 02:16:57
+2023-11-28 21:16:57,636 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:16:57,944 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:16:57,945 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:16:57,967 - cmd_assist - DEBUG - mainloop...
+2023-11-28 21:18:07,651 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:18:07,652 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:18:07,652 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:18:07,652 - cmd_assist - Notice - 
+2023-11-28 21:18:07,652 - cmd_assist - Notice - ============================
+2023-11-28 21:18:07,653 - cmd_assist - Notice - 
+2023-11-28 21:18:07,653 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:18:07,653 - cmd_assist - Notice - 
+2023-11-28 21:18:07,653 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-28 21:18:07,653 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:18:07,653 - cmd_assist - Notice - Time now: 2023-11-29 02:18:07
+2023-11-28 21:18:07,653 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:18:07,946 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:18:07,946 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:18:07,972 - cmd_assist - DEBUG - mainloop...
+2023-11-28 21:22:31,533 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:22:31,533 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:22:31,534 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:22:31,534 - cmd_assist - Notice - 
+2023-11-28 21:22:31,534 - cmd_assist - Notice - ============================
+2023-11-28 21:22:31,534 - cmd_assist - Notice - 
+2023-11-28 21:22:31,534 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:22:31,534 - cmd_assist - Notice - 
+2023-11-28 21:22:31,534 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-28 21:22:31,534 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:22:31,534 - cmd_assist - Notice - Time now: 2023-11-29 02:22:31
+2023-11-28 21:22:31,534 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:22:31,828 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:22:31,828 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:22:31,851 - cmd_assist - DEBUG - mainloop...
+2023-11-28 21:25:59,349 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:25:59,349 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:25:59,350 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:25:59,350 - cmd_assist - Notice - 
+2023-11-28 21:25:59,350 - cmd_assist - Notice - ============================
+2023-11-28 21:25:59,351 - cmd_assist - Notice - 
+2023-11-28 21:25:59,351 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:25:59,351 - cmd_assist - Notice - 
+2023-11-28 21:25:59,351 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-28 21:25:59,351 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:25:59,351 - cmd_assist - Notice - Time now: 2023-11-29 02:25:59
+2023-11-28 21:25:59,351 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:25:59,654 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:25:59,655 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:25:59,680 - cmd_assist - DEBUG - mainloop...
+2023-11-28 21:28:08,617 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:28:08,617 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:28:08,618 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:28:08,618 - cmd_assist - Notice - 
+2023-11-28 21:28:08,618 - cmd_assist - Notice - ============================
+2023-11-28 21:28:08,618 - cmd_assist - Notice - 
+2023-11-28 21:28:08,618 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:28:08,618 - cmd_assist - Notice - 
+2023-11-28 21:28:08,618 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-28 21:28:08,619 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:28:08,619 - cmd_assist - Notice - Time now: 2023-11-29 02:28:08
+2023-11-28 21:28:08,619 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:28:08,862 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:28:08,862 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:28:08,889 - cmd_assist - DEBUG - mainloop...
+2023-11-28 21:32:48,587 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-28 21:32:48,587 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-28 21:32:48,588 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-28 21:32:48,588 - cmd_assist - Notice - 
+2023-11-28 21:32:48,588 - cmd_assist - Notice - ============================
+2023-11-28 21:32:48,588 - cmd_assist - Notice - 
+2023-11-28 21:32:48,588 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-28 21:32:48,588 - cmd_assist - Notice - 
+2023-11-28 21:32:48,588 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands_3.py)
+2023-11-28 21:32:48,588 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-28 21:32:48,589 - cmd_assist - Notice - Time now: 2023-11-29 02:32:48
+2023-11-28 21:32:48,589 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-28 21:32:48,879 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:32:48,879 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-28 21:32:48,902 - cmd_assist - DEBUG - mainloop...
+2023-11-29 11:08:46,553 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-11-29 11:08:46,553 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-11-29 11:08:46,554 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-11-29 11:08:46,554 - cmd_assist - Notice - 
+2023-11-29 11:08:46,555 - cmd_assist - Notice - ============================
+2023-11-29 11:08:46,555 - cmd_assist - Notice - 
+2023-11-29 11:08:46,555 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-11-29 11:08:46,556 - cmd_assist - Notice - 
+2023-11-29 11:08:46,556 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-11-29 11:08:46,556 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-11-29 11:08:46,557 - cmd_assist - Notice - Time now: 2023-11-29 16:08:46
+2023-11-29 11:08:46,557 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-11-29 11:08:46,853 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-29 11:08:46,853 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-11-29 11:08:46,877 - cmd_assist - DEBUG - mainloop...
+2023-12-05 17:41:57,352 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-12-05 17:41:57,367 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-12-05 17:41:57,369 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-12-05 17:41:57,370 - cmd_assist - Notice - 
+2023-12-05 17:41:57,371 - cmd_assist - Notice - ============================
+2023-12-05 17:41:57,371 - cmd_assist - Notice - 
+2023-12-05 17:41:57,372 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-12-05 17:41:57,372 - cmd_assist - Notice - 
+2023-12-05 17:41:57,372 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-12-05 17:41:57,373 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-12-05 17:41:57,373 - cmd_assist - Notice - Time now: 2023-12-05 22:41:57
+2023-12-05 17:41:57,374 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-12-05 17:41:57,753 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-05 17:41:57,753 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-05 17:41:57,777 - cmd_assist - DEBUG - mainloop...
+2023-12-06 10:32:44,269 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-12-06 10:32:44,281 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-12-06 10:32:44,283 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-12-06 10:32:44,284 - cmd_assist - Notice - 
+2023-12-06 10:32:44,284 - cmd_assist - Notice - ============================
+2023-12-06 10:32:44,285 - cmd_assist - Notice - 
+2023-12-06 10:32:44,285 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-12-06 10:32:44,285 - cmd_assist - Notice - 
+2023-12-06 10:32:44,286 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/commands.py)
+2023-12-06 10:32:44,286 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-12-06 10:32:44,287 - cmd_assist - Notice - Time now: 2023-12-06 15:32:44
+2023-12-06 10:32:51,188 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-12-06 10:32:51,188 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-12-06 10:32:51,189 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-12-06 10:32:51,189 - cmd_assist - Notice - 
+2023-12-06 10:32:51,189 - cmd_assist - Notice - ============================
+2023-12-06 10:32:51,189 - cmd_assist - Notice - 
+2023-12-06 10:32:51,189 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-12-06 10:32:51,189 - cmd_assist - Notice - 
+2023-12-06 10:32:51,190 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/parameters.py)
+2023-12-06 10:32:51,190 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-12-06 10:32:51,190 - cmd_assist - Notice - Time now: 2023-12-06 15:32:51
+2023-12-06 10:32:58,963 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-12-06 10:32:58,963 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-12-06 10:32:58,964 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-12-06 10:32:58,964 - cmd_assist - Notice - 
+2023-12-06 10:32:58,964 - cmd_assist - Notice - ============================
+2023-12-06 10:32:58,964 - cmd_assist - Notice - 
+2023-12-06 10:32:58,965 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-12-06 10:32:58,965 - cmd_assist - Notice - 
+2023-12-06 10:32:58,965 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/parameters.py)
+2023-12-06 10:32:58,965 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-12-06 10:32:58,965 - cmd_assist - Notice - Time now: 2023-12-06 15:32:58
+2023-12-06 10:32:58,997 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-12-06 10:32:59,394 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-06 10:32:59,394 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-06 10:32:59,418 - cmd_assist - DEBUG - mainloop...
+2023-12-06 11:52:54,430 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-12-06 11:52:54,430 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-12-06 11:52:54,431 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-12-06 11:52:54,431 - cmd_assist - Notice - 
+2023-12-06 11:52:54,431 - cmd_assist - Notice - ============================
+2023-12-06 11:52:54,431 - cmd_assist - Notice - 
+2023-12-06 11:52:54,431 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-12-06 11:52:54,431 - cmd_assist - Notice - 
+2023-12-06 11:52:54,431 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-12-06 11:52:54,431 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-12-06 11:52:54,431 - cmd_assist - Notice - Time now: 2023-12-06 16:52:54
+2023-12-06 11:52:54,431 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-12-06 11:52:54,725 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-06 11:52:54,725 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-06 11:52:54,749 - cmd_assist - DEBUG - mainloop...
+2023-12-06 11:57:35,348 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-12-06 11:57:35,348 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-12-06 11:57:35,349 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-12-06 11:57:35,349 - cmd_assist - Notice - 
+2023-12-06 11:57:35,349 - cmd_assist - Notice - ============================
+2023-12-06 11:57:35,349 - cmd_assist - Notice - 
+2023-12-06 11:57:35,349 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-12-06 11:57:35,349 - cmd_assist - Notice - 
+2023-12-06 11:57:35,349 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-12-06 11:57:35,349 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-12-06 11:57:35,349 - cmd_assist - Notice - Time now: 2023-12-06 16:57:35
+2023-12-06 11:57:35,349 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-12-06 11:57:35,593 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-06 11:57:35,593 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-06 11:57:35,615 - cmd_assist - DEBUG - mainloop...
+2023-12-21 09:21:58,293 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-12-21 09:21:58,310 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-12-21 09:21:58,311 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-12-21 09:21:58,311 - cmd_assist - Notice - 
+2023-12-21 09:21:58,312 - cmd_assist - Notice - ============================
+2023-12-21 09:21:58,312 - cmd_assist - Notice - 
+2023-12-21 09:21:58,312 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-12-21 09:21:58,312 - cmd_assist - Notice - 
+2023-12-21 09:21:58,312 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist/gui.py)
+2023-12-21 09:21:58,323 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-12-21 09:21:58,323 - cmd_assist - Notice - Time now: 2023-12-21 14:21:58
+2023-12-21 09:21:58,323 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-12-21 09:21:58,696 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-21 09:21:58,697 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-21 09:21:58,729 - cmd_assist - DEBUG - mainloop...
+2023-12-23 15:21:57,252 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2023-12-23 15:21:57,252 - cmd_assist - DEBUG - pre logger debug -- did it work
+2023-12-23 15:21:57,252 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2023-12-23 15:21:57,252 - cmd_assist - Notice - 
+2023-12-23 15:21:57,252 - cmd_assist - Notice - ============================
+2023-12-23 15:21:57,252 - cmd_assist - Notice - 
+2023-12-23 15:21:57,253 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2023-12-23 15:21:57,253 - cmd_assist - Notice - 
+2023-12-23 15:21:57,253 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2023-12-23 15:21:57,253 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2023-12-23 15:21:57,253 - cmd_assist - Notice - Time now: 2023-12-23 20:21:57
+2023-12-23 15:21:57,253 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2023-12-23 15:21:57,525 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-23 15:21:57,526 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2023-12-23 15:21:57,551 - cmd_assist - DEBUG - mainloop...
+2024-01-05 12:30:54,657 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2024-01-05 12:30:54,677 - cmd_assist - DEBUG - pre logger debug -- did it work
+2024-01-05 12:30:54,678 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2024-01-05 12:30:54,679 - cmd_assist - Notice - 
+2024-01-05 12:30:54,679 - cmd_assist - Notice - ============================
+2024-01-05 12:30:54,680 - cmd_assist - Notice - 
+2024-01-05 12:30:54,680 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2024-01-05 12:30:54,681 - cmd_assist - Notice - 
+2024-01-05 12:30:54,681 - cmd_assist - Notice - command line arg + 0  =  main.py)
+2024-01-05 12:30:54,682 - cmd_assist - Notice - current directory /mnt/WIN_D/Russ/0000/python00/python3/_projects/cmd_assist
+2024-01-05 12:30:54,682 - cmd_assist - Notice - Time now: 2024-01-05 17:30:54
+2024-01-05 12:30:54,682 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2024-01-05 12:30:55,070 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2024-01-05 12:30:55,070 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2024-01-05 12:30:55,147 - cmd_assist - DEBUG - mainloop...

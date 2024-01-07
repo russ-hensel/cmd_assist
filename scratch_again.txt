@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov 17 09:28:14 2023
+
+@author: russ
+"""
+
+<<<<<<<<<<<<<<<<<<<<<build_command args ['z ', 'atom ', '/mnt/WIN_D/Russ/0000/python00/python3/_projects/ ']
+    arg_1         >>None<< arg_2    >>None<<
+    a_dir         ><
+    set_py_env    >False<
+    a_dir         ><
+    py_env_with    >>conda<<
+    env           >>py_10<<

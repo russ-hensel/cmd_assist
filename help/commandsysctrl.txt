@@ -1,0 +1,25 @@
+CommandSysCtrl.txt
+
+
+
+add sudo for commands that change the system
+
+
+*>url   http://bulldog/mediawiki/index.php/Linux_CheatSheet#System_Control_and_Config
+
+
+
+How to use systemctl to list services on systemd Linux - Linux Tutorials - Learn Linux Configuration
+https://linuxconfig.org/how-to-use-systemctl-to-list-services-on-systemd-linux
+
+
+
+To unmask a unit, making it available for use again, use the unmask command:
+
+    sudo systemctl unmask nginx.service
+
+
+
+
+
+

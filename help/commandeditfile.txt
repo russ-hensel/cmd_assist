@@ -1,0 +1,68 @@
+commandeditfile.txt  --- now using sync3
+
+seem only to have one file  
+
+https://developer.ibm.com/articles/l-config/
+https://how-to.fandom.com/wiki/Guide_to_linux_configuration_files
+https://www.linuxtopia.org/online_books/introduction_to_linux/linux_The_most_important_configuration_files.html 
+
+------------------- briefly ------------------- 
+
+Commands to edit/manage linux configuration files 
+
+ 	 
+        /etc/hosts               # identify other machines",
+
+        /etc/samba/smb.conf      # samba config file ",
+        /etc/sudoers             # config for sudo
+
+
+	add ----------------
+		config for 
+                    samba 
+
+		     most configuration files are stored in the /etc directory.
+		
+		profile 	System wide configuration of the shell environment: variables, default properties of new files, limitation of resources etc.
+		services 	Connections accepted by this machine (open ports).
+		sndconfig or sound 	Configuration of the sound card and sound events.
+		sysconfig 	Directory containing the system configuration files: mouse, keyboard, 
+		                network, desktop, system clock, power management etc. (specific to RedHat)
+		
+		fstab 	Lists partitions and their mount points.
+		bashrc may be located in /etc/bash/bashrc or /etc/bashrc
+		
+		/etc/cron.daily/ - scripts within are run daily by cron
+		/etc/crontab - general config for cron
+		/etc/environment - environment variables [1]
+		/etc/netconfig
+		/etc/networks
+		
+		Grub2
+		
+		    /boot/grub/grub.cfg - Menu information
+		    /etc/default/grub - Basic configs
+		    /etc/grub.d/ - scripts in this directory are read during execution of the update-grub command and their instructions are incorporated into /boot/grub/grub.cfg.
+		/etc/hostname - stores the name of the host computer
+
+------------------ search_me ------------------- 
+
+	hosts
+
+  
+------------------- this gui ------------------- 
+
+argument 1          either an edit command ( with sudo ) or a file manager 
+argument 2          name of the file 
+
+
+
+------------------ xxx --help ------------------- 
+   
+
+------------------ man xxx ------------------- 
+ 
+ 
+
+
+ 

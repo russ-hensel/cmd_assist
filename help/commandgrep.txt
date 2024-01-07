@@ -1,0 +1,43 @@
+commandgrep.txt
+
+------------------- briefly ------------------- 
+
+grep is a utility for finding text in data streams ( = filtering data ),
+the data streams may be files, or other data sources including
+the output of other commands.
+
+grep often uses regular expressions, a sort of mini language on its
+own.
+
+
+
+------------------- search_me -------------------
+
+
+
+	find
+        regexp_help
+        grep_help
+        
+------------------- popular grep options -------------------  
+
+        -i     ignore case
+        
+        
+------------------- this gui ------------------- 
+
+the grep command is divided into 3 parts:
+typically
+
+        part 1    is the grep command possibly with some options like 
+
+
+------------- options -------------        
+
+----------------- scratch ---------------
+ 
+
+------------------ regexp_help ------------------
+still working on it 
+
+------------------ grep_help = grep -h ------------------- 
