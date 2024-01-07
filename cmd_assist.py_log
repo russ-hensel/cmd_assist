@@ -1602,3 +1602,30 @@
 2024-01-05 12:30:55,070 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
 2024-01-05 12:30:55,070 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
 2024-01-05 12:30:55,147 - cmd_assist - DEBUG - mainloop...
+2024-01-07 13:04:21,009 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2024-01-07 13:04:21,009 - cmd_assist - DEBUG - pre logger debug -- did it work
+2024-01-07 13:04:21,010 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2024-01-07 13:04:21,010 - cmd_assist - Notice - 
+2024-01-07 13:04:21,010 - cmd_assist - Notice - ============================
+2024-01-07 13:04:21,010 - cmd_assist - Notice - 
+2024-01-07 13:04:21,010 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2024-01-07 13:04:21,010 - cmd_assist - Notice - 
+2024-01-07 13:04:21,010 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/for_github/cmd_assist/main.py)
+2024-01-07 13:04:21,010 - cmd_assist - Notice - current directory /mnt/WIN_D/for_github/cmd_assist
+2024-01-07 13:04:21,010 - cmd_assist - Notice - Time now: 2024-01-07 18:04:21
+2024-01-07 13:04:21,010 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2024-01-07 13:06:37,977 - cmd_assist - INFO - Done config_logger .. next AppGlobal msg
+2024-01-07 13:06:37,977 - cmd_assist - DEBUG - pre logger debug -- did it work
+2024-01-07 13:06:37,977 - cmd_assist - DEBUG - Message from AppGlobal.print_debug >> logger level in App = 10 will show at level 10
+2024-01-07 13:06:37,978 - cmd_assist - Notice - 
+2024-01-07 13:06:37,978 - cmd_assist - Notice - ============================
+2024-01-07 13:06:37,978 - cmd_assist - Notice - 
+2024-01-07 13:06:37,978 - cmd_assist - Notice - Application: Command Assistant 2 in mode New_user + test and version  Ver 110: 2023 11 26.0
+2024-01-07 13:06:37,978 - cmd_assist - Notice - 
+2024-01-07 13:06:37,978 - cmd_assist - Notice - command line arg + 0  =  /mnt/WIN_D/for_github/cmd_assist/main.py)
+2024-01-07 13:06:37,978 - cmd_assist - Notice - current directory /mnt/WIN_D/for_github/cmd_assist
+2024-01-07 13:06:37,978 - cmd_assist - Notice - Time now: 2024-01-07 18:06:37
+2024-01-07 13:06:37,978 - cmd_assist.gui - INFO - in class GUI init for the cmd_assist
+2024-01-07 13:06:38,274 - cmd_assist - DEBUG - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2024-01-07 13:06:38,274 - cmd_assist - Notice - Error messages may be in log file, check it if problems -- check parmeters.py for logging level 
+2024-01-07 13:06:38,303 - cmd_assist - DEBUG - mainloop...
